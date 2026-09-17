@@ -23,4 +23,4 @@ I enjoy building things, solving problems, and learning how technology works fro
 
 ### Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/kyle-lin1234/) · [Email](lin695945@gmail.com )
+[LinkedIn](https://www.linkedin.com/in/kyle-lin1234/) · [Email](mailto:lin695945@gmail.com)

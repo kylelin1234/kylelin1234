@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Kyle 👋
 
-<!--
-**kylelin1234/kylelin1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intelligent Systems Engineering @ Indiana University
 
-Here are some ideas to get you started:
+I enjoy building things, solving problems, and learning how technology works from the ground up. Always looking for something new to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+
+* 💻 Building projects in C and exploring software development
+* 🧠 Learning more about AI, computer systems, and intelligent systems
+* 🎓 Studying Intelligent Systems Engineering at Indiana University
+
+
+---
+
+### Fun facts
+
+* 🥋 BJJ Hobbyist
+* 🏋️ I enjoy working out
+* 🍳 I like cooking
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/kyle-lin1234/) · [Email](lin695945@gmail.com )
